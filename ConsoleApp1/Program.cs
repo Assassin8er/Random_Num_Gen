@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Random number gen
             int max, min;
             Console.WriteLine("Random Number Genarater");
             Console.WriteLine("Enter a minimum Value");
